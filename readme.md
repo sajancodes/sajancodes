@@ -217,9 +217,9 @@ My main goal is to move beyond simply building applications and understand how t
 
 # 📊 GitHub Stats
 
-![Sajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajancodes\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sajancodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajancodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/> </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajancodes\&layout=compact\&theme=tokyonight\&hide_border=true)
+<p align="center"> <img src="https://streak-stats.demolab.com?user=sajancodes&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
