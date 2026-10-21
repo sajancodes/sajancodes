@@ -1,1 +1,1 @@
-****FUCK IT, WE WILL FIGURE IT OUT!****
+****I never lose. I either win or learn.****
