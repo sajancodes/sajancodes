@@ -1,1 +1,1 @@
-****I never lose. I either win or learn.****
+****MOST STRANGE GUY****
